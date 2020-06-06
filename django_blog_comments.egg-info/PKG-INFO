@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: django-blog-comments
-Version: 0.0.1
+Version: 1.0.0
 Summary: A django app which help in implementing comments in your posts model
 Home-page: https://github.com/namantam1/django-blog-comments
 Author: Naman Tamrakar
 Author-email: namantam1@gmail.com
 License: UNKNOWN
-Description: # django-comments
+Description: # django-blog-comments
         
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3

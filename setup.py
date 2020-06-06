@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="django-blog-comments", # Replace with your own username
-    version="0.0.1",
+    version="1.0.0",
     author="Naman Tamrakar",
     author_email="namantam1@gmail.com",
     description="A django app which help in implementing comments in your posts model",

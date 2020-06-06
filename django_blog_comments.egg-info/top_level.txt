@@ -1,1 +1,1 @@
-comment
+django_blog_comments

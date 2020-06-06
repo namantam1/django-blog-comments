@@ -1,0 +1,4 @@
+*.pyc
+build/
+dist/
+django-blog-comments.egg-info/

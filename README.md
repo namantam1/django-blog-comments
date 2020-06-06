@@ -1,1 +1,1 @@
-# django-comments
+# django-blog-comments
